@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently a university student<br>
 👯 I look forward to collaborating with passionate and goal-oriented people<br>
-🤝 I’m looking for help with  <br>
 🌱 I’m currently learning data science and machine learning.<br>
 💬 Ask me about  <br>⚡ Fun fact
 
